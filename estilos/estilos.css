@@ -1,0 +1,135 @@
+:root{
+    --color-info:#ea6d15;
+    --color-matemáticas: #cbf04e;
+    --color-inglés:#71f807;
+    --color-teatro:#f80f07;
+    --color-economia: #07f8d2;
+    --color-castellano: #55a2f5 ;
+    --color-latín: #4c29ca ;
+    --color-historia: #7d50a1 ;
+    --color-religión: #d132f4 ;
+    --color-valenciano: #ed1ce7 ;
+    --color-educaciónfísica: #f286be ;
+    --color-tutoría: #77bda7 ;
+    --color-patio: #c4f570 ;
+}
+.color-info{
+    background-color: var(--color-info);
+    width: 50px;
+}
+.color-matemáticas{
+    background-color:var(--color-matemáticas);
+    width: 50px;
+}
+.color-inglés{
+    background-color: var(--color-inglés);
+    width: 50px;
+}
+.color-teatro{
+    background-color:var(--color-teatro) ;
+    width: 50px;
+}
+.color-economia{
+    background-color:var(--color-economia);
+    width: 50px;
+}
+.color-castellano{
+    background-color: var(--color-castellano);
+    width: 50px;
+}
+.color-latín{
+    background-color: var(--color-latín);
+    width: 50px;
+}
+.color-historia{
+    background-color: var(--color-historia);
+    width: 50px;
+}
+.color-religión{
+    background-color: var(--color-religión);
+    width: 50px;
+}
+.color-valenciano{
+    background-color: var(--color-valenciano);
+    width: 50px;
+}
+.color-educaciónfísica{
+    background-color: var(--color-educaciónfísica);
+    width: 50;
+}
+.color-tutoría{
+    background-color: var(--color-tutoría);
+    width: 50px;
+}
+.color-patio{
+    background-color: var(--color-patio);
+    width: 50px;
+}
+.info{
+    background-color: var(--color-info);
+}
+.mates{
+    background-color: var(--color-matemáticas);
+}
+.inglés{
+    background-color: var(--color-inglés);
+}
+.teatro{
+    background-color: var(--color-teatro);
+}
+.economia{
+    background-color: var(--color-economia);
+}
+.caste{
+    background-color: var(--color-castellano);
+}
+.latín{
+    background-color: var(--color-latín);
+    color: white;
+}
+.historia{
+    background-color: var(--color-historia);
+}
+.valen{
+    background-color: var(--color-valenciano);
+}
+.reli{
+    background-color: var(--color-religión);
+}
+.educaciónfísica{
+    background-color: var(--color-educaciónfísica);
+}
+.tutoría{
+    background-color: var(--color-tutoría);
+}
+.patio{
+    background-color: var(--color-patio);
+}
+.tabla{
+    border-collapse: collapse;
+    text-align: center;
+    margin: 10px;
+}
+
+.tabla th, .tabla td{
+    border: solid 2px black;
+    text-align: center;
+    padding: 4px;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+:root{
+    --color-horas: #b6bfa8 ;
+    --color-días: #fada83 ;
+    --color-horario: #f4683f ;
+}
+.horas{
+    background-color: var(--color-horas);
+}
+.días{
+    background-color: var(--color-días);
+}
+.horario{
+    background-color: var(--color-horario);
+}
